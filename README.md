@@ -17,3 +17,20 @@ Traditional documentation often creates problems here:
 * Documentation gets duplicated across product-specific manuals.
 * Shared workflows are difficult to maintain.
 * Users struggle to identify which documentation applies to their particular environment.
+
+Use Pro(doc)ts to:
+
+* Identify documentation gaps.
+* Understand relationships between products.
+* Detect inconsistencies.
+* Propose improvements.
+* Validate changes.
+
+For example, a reader could select:
+
+* Product: Instrument A and Analysis Software.
+* Experience: Beginner.
+* Platform: Windows.
+* Version: 3.2.
+
+Your documentation engine can then use those preferences to determine which content to render.
